@@ -1,1 +1,1 @@
-# businessintelligence.github.io
+# Business intelligence
